@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+    font-size: xx-large;
+    font-family: cursive;
+}
+
+button{
+    color: white;
+    background-color:black;
+    border-radius: 5px;
+    padding: 20px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
